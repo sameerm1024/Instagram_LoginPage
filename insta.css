@@ -1,0 +1,101 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+}
+
+#wrapper {
+  width: 325px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.main-content {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 25px;
+}
+
+.header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.l-part {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.username, .password {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+.password {
+  margin-top: 10px;
+  background-color: transparent;
+  margin-bottom: 35px;
+}
+
+.btn {
+  background-color: #3897f0;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 10px;
+  width: 90%;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+a {
+  color: #003569;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.sub-content {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #999;
+}
+
+.s-part a {
+  color: #3897f0;
+  text-decoration: none;
+  font-size: 13;
+}
+
+.s-part a:hover {
+  text-decoration: underline;
+}
+.get-app{
+  text-align: center;
+  font-size: 14;
+  color: black;
+}
+.google{
+  width: 150px;
+  margin-right: 5px;
+}
+.microsoft{
+  width: 125px;
+}
+.logos{
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+}
+
